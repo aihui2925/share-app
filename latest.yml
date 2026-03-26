@@ -1,8 +1,8 @@
-version: 1.0.3
+version: 1.0.4
 files:
-  - url: https://github.com/aihui2925/share-app/releases/download/v1.0.3/OpenClaw.Monitor-Setup-1.0.3.exe
-    sha512: 20716459cc64662ebd7ea8f586fa57b525cef4630128139bc30d2f406e0a18bfe7e1139ce439ed6a8c5cbaa1f30f6820d9afe03b20c1b12ee5cd9359483e6e56
-    size: 315347864
-path: OpenClaw.Monitor-Setup-1.0.3.exe
-sha512: 20716459cc64662ebd7ea8f586fa57b525cef4630128139bc30d2f406e0a18bfe7e1139ce439ed6a8c5cbaa1f30f6820d9afe03b20c1b12ee5cd9359483e6e56
-releaseDate: '2026-03-26T13:19:42.109Z'
+  - url: https://github.com/aihui2925/share-app/releases/download/v1.0.4/OpenClaw.Monitor-Setup-1.0.4.exe
+    sha512: f9f8aabc0d945380cae0b4f295b0c8c63eb42318b14c66bb7c4bebeaf11fa4dcba51fdfd1265615876a6f9d0f2ac7e8717db136fa6172d1bbdc44376358d97d1
+    size: 315347822
+path: OpenClaw.Monitor-Setup-1.0.4.exe
+sha512: f9f8aabc0d945380cae0b4f295b0c8c63eb42318b14c66bb7c4bebeaf11fa4dcba51fdfd1265615876a6f9d0f2ac7e8717db136fa6172d1bbdc44376358d97d1
+releaseDate: '2026-03-26T13:41:04.871Z'
