@@ -1,8 +1,8 @@
-version: 1.0.0
+version: 1.0.1
 files:
   - url: https://github.com/aihui2925/share-app/releases/download/v1.0.0/OpenClaw.Monitor-Setup-1.0.0.exe
     sha512: RG4jY0xxprEXeJJar+pfeVrTU4vgVvNf7la7N4+M5j8Wzy4XC/aEFWPMZWGy0DCxtWcSra5AWF7r3TAS+25AZQ==
     size: 236502292
 path: OpenClaw.Monitor-Setup-1.0.0.exe
 sha512: RG4jY0xxprEXeJJar+pfeVrTU4vgVvNf7la7N4+M5j8Wzy4XC/aEFWPMZWGy0DCxtWcSra5AWF7r3TAS+25AZQ==
-releaseDate: '2026-03-26T05:19:05.272Z'
+releaseDate: '2026-03-26T12:00:00.000Z'
